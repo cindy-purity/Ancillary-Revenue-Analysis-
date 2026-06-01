@@ -65,22 +65,10 @@ Website-channel guests spend the most. Marketing campaigns that drive direct boo
 
 ---
 
-## How to Run
-
-Open `notebook.ipynb` in Jupyter Notebook, DataLab, VS Code, or GitHub's notebook viewer. Keep all CSV files in the same folder as the notebook.
-
-To install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Project Structure
 
 ```
-├── notebook.ipynb                    # Full analysis notebook
+├── ancillary Revenue code.pdf                    # Full analysis notebook
 ├── chart.png                         # Ancillary revenue by guest segment
 ├── da_sample_guest_profiles.csv      # Guest profile data
 ├── da_sample_stay_details.csv        # Stay records
